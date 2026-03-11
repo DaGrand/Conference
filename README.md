@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/483f49e3-e784-472b-a2a7-fb146834604c" width="200" />
+<img src="https://github.com/user-attachments/assets/0f92c512-895c-443f-a964-7c4236e5cbd2" width="200" />
 
 # David Grandolfo
 
