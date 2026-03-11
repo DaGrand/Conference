@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7b0a767-4ec5-451f-ba52-84e8c71794bc)
+<img src="https://github.com/user-attachments/assets/483f49e3-e784-472b-a2a7-fb146834604c" width="250" />
 
 David Grandolfo has over 20 years of experience in information technology, specializing in server administration and cybersecurity. 
 In addition to founding and successfully managing a technology services company for eight years, he has also taught computer science, sharing his knowledge and expertise with students. 
