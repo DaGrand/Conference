@@ -4,11 +4,12 @@
 
 # David Grandolfo
 
-**Cybersécurité | Infrastructure | Conférencier**
+**Cybersécurité | Intelligence Artificiel | Conférencier**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgrandolfo/)
 [![SecTor](https://img.shields.io/badge/SecTor-Speaker-red?style=for-the-badge)](https://www.blackhat.com/sector/)
 [![IT--SEC](https://img.shields.io/badge/IT--SEC-Speaker-blue?style=for-the-badge)](https://www.it-sec.ca/)
+[![Devo Congrès](https://img.shields.io/badge/Devo--Congrès-Speaker-green?style=for-the-badge)](https://www.devolutions.net/)
 
 </div>
 
@@ -28,14 +29,16 @@ Aujourd'hui, je contribue au renforcement de la **résilience des infrastructure
 
 | Événement | Sujet |
 |-----------|-------|
-| **SecTor** | Cybersécurité & infrastructures critiques |
-| **IT-SEC** | Cybersécurité & infrastructures critiques |
+| **SecTor** | Enhancing Business Security with IAM Solutions |
+| **IT-SEC** | Cybersécurité & surveillance |
+| **Devo Congrès** | Formation et sensibilisation en Cybersécurité |
 
 ---
 
 ## 🛡️ Domaines d'expertise
 
 - 🔒 Cybersécurité & résilience des infrastructures
+- ✨ Intelligence Artificiel
 - 🏗️ Gestion d'environnements informatiques complexes
 - 🚀 Entrepreneuriat technologique
 - 🎓 Formation & transmission des connaissances
