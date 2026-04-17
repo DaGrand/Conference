@@ -30,7 +30,7 @@ Aujourd'hui, je contribue au renforcement de la **résilience des infrastructure
 | Événement | Sujet |
 |-----------|-------|
 | **SecTor** | Enhancing Business Security with IAM Solutions |
-| **IT-SEC** | Cybersécurité & surveillance |
+| **IT-SEC** | Cybersécurité & Intelligence Artificiel |
 | **Devo Congrès** | Formation et sensibilisation en Cybersécurité |
 
 ---
